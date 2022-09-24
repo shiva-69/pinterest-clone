@@ -8,7 +8,7 @@ Pinterest is an image sharing and social media service designed to enable saving
 ## Functionality Added 
 
 - User can sign up and login.
-- User can pin image, download image and share with social media platform like whatsapp and others.
+- User can pin image, download image and share with social media platforms like whatsapp and others.
 
 ## Tech Stack
 
@@ -16,15 +16,15 @@ Pinterest is an image sharing and social media service designed to enable saving
 - Redux
 - React Router
 - CSS
+- JS
 
 
 # Clone Website Address
-
 - [Pinterest-clone Video Demo](https://www.loom.com/share/63ae4a6f303d41a7be8edc4826644e88)
 - [Json Database](https://simple-json-db.herokuapp.com/)
 - [Database GitHub](https://github.com/SarveshMishra/json-server)
-# Team Members
 
+# Team Members
 - [Mangesh Pralhad pandit ](https://github.com/alicehack2020)
 - [Shivam Pandey ](https://github.com/shiva-69)
 - [Sarvesh Mishra](https://github.com/SarveshMishra/)
